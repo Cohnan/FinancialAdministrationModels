@@ -1,0 +1,6 @@
+https://finance.yahoo.com/quote/CIB/history?period1=1505883600&period2=1568955600&interval=1mo&filter=history&frequency=1mo
+https://finance.yahoo.com/quote/AVH/history?period1=1505883600&period2=1568955600&interval=1mo&filter=history&frequency=1mo
+https://finance.yahoo.com/quote/CIB/history?p=CIB&.tsrc=fin-srch
+https://es.investing.com/equities/exito-historical-data
+https://es.investing.com/equities/grupoargos-historical-data
+https://es.investing.com/equities/carton-de-colombia-sa-historical-data
