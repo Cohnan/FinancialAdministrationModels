@@ -3,4 +3,4 @@ https://finance.yahoo.com/quote/AVH/history?period1=1505883600&period2=156895560
 https://finance.yahoo.com/quote/CIB/history?p=CIB&.tsrc=fin-srch
 https://es.investing.com/equities/exito-historical-data
 https://es.investing.com/equities/grupoargos-historical-data
-https://es.investing.com/equities/carton-de-colombia-sa-historical-data
+https://es.investing.com/indices/ftse-colombia-historical-data  #https://es.investing.com/equities/carton-de-colombia-sa-historical-data
