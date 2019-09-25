@@ -4,3 +4,4 @@ https://finance.yahoo.com/quote/CIB/history?p=CIB&.tsrc=fin-srch
 https://es.investing.com/equities/exito-historical-data
 https://es.investing.com/equities/grupoargos-historical-data
 https://es.investing.com/indices/ftse-colombia-historical-data  #https://es.investing.com/equities/carton-de-colombia-sa-historical-data
+https://www.investing.com/equities/mineros-sa-historical-data
