@@ -2,6 +2,19 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time
 
+# Función que simula y grafica el precio de un activo S modelado mediante la ecuación diferencial estocástica dS = mu*S*dt + sigma*S*dW, 
+# donde W es un proceso de Wiener
+#
+# 	Parámetros
+# S0: precio en el tiempo 0 del activo
+# mu: rentabilidad promedio del activo
+# sig: volatilidad del activo
+# dt: cambio "infinitesimal" de tiempo. Afecta la precision de las aproximaciones.
+# Dt: periodo de gran escala de tiempo, correspondiente a 1 unidad de tiempo
+# N: numero de periodos o tiempos a graficar
+# graficar: booleano indicando si se quiere o no graficar los datos hallados
+# pts: número de parejas (t, Ss) subconjunto del total calculado que se desean retornar y graficar (i.e. resolución de los datos retornados)
+# txtad: texto adicional a imprimir en el gráfico
 def grafico_valor_activo(S0 = 100, mu = 0.02, sig = 0.07, dt = 0.001, Dt = 1, N = 10, graficar = True, pts = 0, txtad = ""):
     tf = N*Dt + dt
     ts = np.arange(0, tf, dt)
